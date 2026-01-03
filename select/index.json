@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "独白（カンザキイオリ Remix）",
+  "base_artist": "DUSTCELL",
+  "createdAt": "2026-01-03T02:18:46.646320Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "独白 - カンザキイオリ Remix",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/01_独白_-_カンザキイオリ_Remix_DUSTCELL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "独白（カンザキイオリ Remix）",
+      "artist": "DUSTCELL",
+      "has_synced": true,
+      "path": "select/02_独白(カンザキイオリ_Remix)_DUSTCELL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "独白 - カンザキイオリ Remix",
+      "artist": "DUSTCELL, カンザキイオリ",
+      "has_synced": false,
+      "path": "select/pl_01_独白_-_カンザキイオリ_Remix_DUSTCELL,_カンザキイオリ.txt"
+    }
+  ]
+}
